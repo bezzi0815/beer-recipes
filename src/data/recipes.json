@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sour sucht Frau",
+    "type": "Sour Ale",
+    "ingridients": [
+      {
+        "ingridient_id": 1,
+        "amount": 4.2
+      },
+      {
+        "ingridient_id": 2,
+        "amount": 120
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sour Train",
+    "type": "Golden Sour Ale",
+    "ingridients": [
+      {
+        "ingridient_id": 1,
+        "amount": 5
+      },
+      {
+        "ingridient_id": 2,
+        "amount": 20
+      }
+    ]
+  }
+]

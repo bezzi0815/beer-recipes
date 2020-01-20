@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Pale Ale Malz",
+    "type": "Malz",
+    "unit": "kg"
+  },
+  {
+    "id": 2,
+    "name": "Citra",
+    "type": "Hopfen",
+    "unit": "g"
+  }
+]

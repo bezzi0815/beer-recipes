@@ -1,0 +1,7 @@
+.list-group-item {
+  padding-left: 0;
+
+  &:last-child {
+    border: none;
+  }
+}

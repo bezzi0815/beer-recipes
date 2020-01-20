@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "ingridient_id": 1,
+    "amount": "25"
+  },
+  {
+    "id": 2,
+    "ingridient_id": 2,
+    "amount": "20"
+  }
+]
